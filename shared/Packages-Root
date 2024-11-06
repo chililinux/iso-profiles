@@ -131,7 +131,7 @@ plymouth-theme-biglinux
 update-grub
 
 ## Tweaks
-biglinux-name
+chili-name
 biglinux-l18n
 # faster-mkinitcpio
 biglinux-improve-compatibility
