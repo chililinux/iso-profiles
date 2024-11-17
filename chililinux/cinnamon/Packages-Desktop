@@ -105,8 +105,8 @@ appimagelauncher
 appmenu-gtk-module
 auto-tweaks-browser # Pacote Biglinux
 biglinux-mime
-#biglinux-webapps
-comm-webapps
+#comm-webapps
+biglinux-webapps
 bigocrpdf
 dmidecode # for inxi -m output
 espeak-ng

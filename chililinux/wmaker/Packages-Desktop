@@ -230,8 +230,8 @@ appmenu-gtk-module
 auto-tweaks-browser
 bigbashview
 biglinux-mime
-#biglinux-webapps
-comm-webapps
+biglinux-webapps
+#comm-webapps
 bigocrpdf
 libappindicator-gtk3
 perl-file-mimeinfo
