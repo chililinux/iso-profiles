@@ -1,19 +1,21 @@
 # XFCE Applications
-atril
+#atril
 blueman
-brasero
 catfish
+evince
 exo
 ffmpegthumbnailer
-# fluent-icon-theme-git
 garcon
-galculator
+gnome-online-accounts-gtk
+gnome-calculator
 gnome-disk-utility
 guvcview
 guvcview-qt
 intltool
+light-locker
 materiav2-gtk-theme
 mousepad
+menulibre
 mugshot
 mystiq
 numlockx
@@ -23,17 +25,19 @@ ocs-url
 #parole
 pavucontrol
 playerctl
+pix
 ristretto
 simplescreenrecorder
 sync-gnome-theme-to-qt
 thunar
 thunar-archive-plugin
 thunar-media-tags-plugin
+thunar-shares-plugin
 thunar-volman
 thunarx-python
 tumbler
 vlc
-# xfburn
+xed
 xfce4-appfinder
 xfce4-artwork
 xfce4-battery-plugin
@@ -77,6 +81,12 @@ xfdesktop
 xfwm4
 xfwm4-themes
 xarchiver
+
+# Games
+gnuchess
+gnome-mines
+aisleriot
+gnujump
 
 # Browsers
 brave-browser
@@ -146,7 +156,6 @@ appmenu-gtk-module
 auto-tweaks-browser # Pacote Biglinux
 biglinux-mime
 biglinux-webapps
-#comm-webapps
 bigocrpdf
 dmidecode # for inxi -m output
 espeak-ng
@@ -175,10 +184,8 @@ lightdm-webkit2-theme-community
 >extra fwupd
 android-tools
 big-store
-biglinux-keyring
 biglinux-systemd-swap
 biglinux-updates-tweaks
-chililinux-keyring
 bluez-cups
 compsize
 debtap-mod

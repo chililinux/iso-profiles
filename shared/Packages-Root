@@ -96,6 +96,7 @@ usbutils
 util-linux
 vi
 virtualbox-guest-utils
+vulkan-tools
 vkd3d
 wget
 which
@@ -108,6 +109,11 @@ xz
 
 ### BIGLINUX
 biglinux-bash-config
+biglinux-keyring
+
+### CHILILINUX
+chili-livecd-key
+chililinux-keyring
 
 ## Visual/theme
 bigicons-papient
@@ -168,8 +174,43 @@ chmlib
 tesseract-data-spa
 
 ## Video and Driver Support Biglinux
-mhwd-biglinux
 biglinux-vaapi
+gtkmm3
+lib32-libva-vdpau-driver
+lib32-mesa-vdpau
+lib32-vulkan-intel
+lib32-vulkan-nouveau
+lib32-vulkan-radeon
+libva-intel-driver
+libva-mesa-driver
+libva-vdpau-driver
+mesa-vdpau
+mhwd-biglinux
+spice-vdagent
+vulkan-icd-loader
+vulkan-intel
+vulkan-mesa-layers
+vulkan-nouveau
+vulkan-radeon
+vulkan-swrast
+vulkan-virtio
+xf86-input-vmmouse
+xf86-video-amdgpu
+xf86-video-ati
+xf86-video-dummy
+xf86-video-fbdev
+xf86-video-intel
+xf86-video-nouveau
+xf86-video-sisusb
+xf86-video-vesa
+xf86-video-vmware
+xf86-video-voodoo
+
+
+## Virtualization Support
+open-vm-tools
+qemu-guest-agent
+virtualbox-guest-utils
 
 # extras packages
 tree
