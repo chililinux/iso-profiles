@@ -123,7 +123,6 @@ biglinux-metapackage
 
 ## BigLinux Specific Configurations
 biglinux-driver-manager
-biglinux-nano-config
 biglinux-neofetch
 big-preload
 
@@ -221,3 +220,4 @@ btop
 chililinux-keyring
 #chili-bashrc
 pyenv
+chili-nano-config
