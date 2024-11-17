@@ -132,7 +132,7 @@ biglinux-xfwm-axiomd-theme
 # Utilities
 biglinux-settings
 chili-xfce-wallpapers
-comm-xfce-config
+#comm-xfce-config
 ds4-disable-led
 retroarch-tweaks
 
