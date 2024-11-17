@@ -177,5 +177,5 @@ duf
 shfmt
 btop
 #shellcheck
-community-keyring
+chililinux-keyring
 #chili-keyring
