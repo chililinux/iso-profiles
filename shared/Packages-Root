@@ -219,5 +219,5 @@ shfmt
 btop
 #shellcheck
 chililinux-keyring
-chili-bashrc
+#chili-bashrc
 pyenv
