@@ -127,7 +127,7 @@ timeshift
 grub-btrfs-timeshift
 grub-btrfs
 big-first-boot
-plymouth-theme-biglinux
+plymouth-theme-chili
 update-grub
 
 ## Tweaks
@@ -178,3 +178,6 @@ shfmt
 btop
 #shellcheck
 chililinux-keyring
+chili-bashrc
+chili-nanorc
+pyenv
