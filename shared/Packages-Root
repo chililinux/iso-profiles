@@ -216,7 +216,6 @@ duf
 shfmt
 btop
 #shellcheck
-chililinux-keyring
 #chili-bashrc
 pyenv
 chili-nano-config
