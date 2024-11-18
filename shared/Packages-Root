@@ -205,13 +205,12 @@ xf86-video-vesa
 xf86-video-vmware
 xf86-video-voodoo
 
-
 ## Virtualization Support
 open-vm-tools
 qemu-guest-agent
 virtualbox-guest-utils
 
-# extras packages
+# extras packages for ChiliLinux
 tree
 duf
 shfmt
@@ -221,3 +220,4 @@ chililinux-keyring
 #chili-bashrc
 pyenv
 chili-nano-config
+chili-restore-config

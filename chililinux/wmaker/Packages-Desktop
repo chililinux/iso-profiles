@@ -72,7 +72,6 @@ qogir-icon-theme
 
 ## BigLinux Specific Configurations XFCE
 big-wmaker-config
-biglinux-config
 
 ## Display manager
 lightdm
