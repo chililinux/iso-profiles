@@ -31,17 +31,35 @@ ttf-roboto-slab
 
 # CINNAMON Applications
 adw-gtk-theme
+celluloid
 cinnamon
+cinnamon-applet-cinnamenu
 cinnamon-desktop
 cinnamon-control-center
 cinnamon-remove-application
 cinnamon-sounds
 cinnamon-translations
+gnome-calculator
+gnome-screenshot
+gnome-system-monitor
+gnome-terminal
+nemo
+nemo-audio-tab
+nemo-emblems
+nemo-image-converter
+nemo-fileroller
+nemo-pastebin
+nemo-preview
+nemo-python
+nemo-seahorse
+nemo-share
+nemo-terminal
+pix
 simple-scan
+simplescreenrecorder
 sync-gnome-theme-to-qt # Pacote Biglinux
 xdg-user-dirs-gtk
-
-
+xed
 
 # Input Devices
 xf86-input-elographics
@@ -105,7 +123,6 @@ appimagelauncher
 appmenu-gtk-module
 auto-tweaks-browser # Pacote Biglinux
 biglinux-mime
-#comm-webapps
 biglinux-webapps
 bigocrpdf
 dmidecode # for inxi -m output
@@ -129,13 +146,12 @@ zensu
 ## Display manager
 lightdm
 lightdm-webkit2-greeter
-lightdm-webkit2-theme-biglinux
+lightdm-webkit2-theme-community
 
 # System Utilities
 >extra fwupd
 android-tools
 big-store
-biglinux-keyring
 biglinux-systemd-swap
 biglinux-updates-tweaks
 bluez-cups
@@ -192,7 +208,9 @@ usbasp-udev
 usbtinyisp-udev
 
 # Utilities
-big-cinnamon-config
+comm-cinnamon-config
+comm-shell-orchis
+comm-wallpapers-cinnamon
 ds4-disable-led
 retroarch-tweaks
 
