@@ -220,4 +220,13 @@ btop
 pyenv
 chili-nano-config
 chili-restore-config
-lightdm-deepin-greeter
+
+## Display manager - lightdm
+#lightdm
+#lightdm-webkit2-greeter
+#lightdm-webkit2-theme-community
+#lightdm-deepin-greeter
+
+## Display manager - lxdm
+lxdm
+lxdm-greeter-gtk

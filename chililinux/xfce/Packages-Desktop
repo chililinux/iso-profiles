@@ -176,9 +176,9 @@ xdg-user-dirs-gtk
 zensu
 
 ## Display manager
-lightdm
-lightdm-webkit2-greeter
-lightdm-webkit2-theme-community
+#lightdm
+#lightdm-webkit2-greeter
+#lightdm-webkit2-theme-community
 
 # System Utilities
 >extra fwupd
