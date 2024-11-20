@@ -228,7 +228,7 @@ chili-restore-config
 #lightdm-deepin-greeter
 
 ## Display manager - lxdm
-lxdm
+#lxdm
 lxdm-gtk3
 manjaro-flatred-lxdm-theme
 #lxdm-greeter-gtk
