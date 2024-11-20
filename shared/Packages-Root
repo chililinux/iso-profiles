@@ -229,4 +229,6 @@ chili-restore-config
 
 ## Display manager - lxdm
 lxdm
-lxdm-greeter-gtk
+lxdm-gtk3
+manjaro-flatred-lxdm-theme
+#lxdm-greeter-gtk
