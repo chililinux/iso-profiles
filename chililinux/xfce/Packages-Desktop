@@ -107,7 +107,7 @@ adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-kr-fonts
 adobe-source-sans-pro-fonts
 cantarell-fonts # Installed as gnome-themes-standard dependency
-noto-fonts-lite # New default font
+#noto-fonts-lite # New default font
 noto-nerd-fonts-lite
 # terminus-font
 # ttf-caladea
