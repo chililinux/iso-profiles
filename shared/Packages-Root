@@ -222,13 +222,13 @@ chili-nano-config
 chili-restore-config
 
 ## Display manager - lightdm
-#lightdm
-#lightdm-webkit2-greeter
-#lightdm-webkit2-theme-community
-#lightdm-deepin-greeter
+lightdm
+lightdm-webkit2-greeter
+lightdm-webkit2-theme-community
+lightdm-deepin-greeter
 
 ## Display manager - lxdm
-#lxdm
-lxdm-gtk3
+lxdm
+#lxdm-gtk3
 manjaro-flatred-lxdm-theme
 #lxdm-greeter-gtk
