@@ -219,7 +219,6 @@ btop
 #chili-bashrc
 pyenv
 chili-nano-config
-chili-restore-config
 
 ## Display manager - lightdm
 lightdm
@@ -232,3 +231,9 @@ lxdm
 #lxdm-gtk3
 manjaro-flatred-lxdm-theme
 #lxdm-greeter-gtk
+
+# BigApps
+big-store
+chili-webapps
+chili-restore-config
+

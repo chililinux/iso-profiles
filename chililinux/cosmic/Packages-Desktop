@@ -114,8 +114,6 @@ appimagelauncher
 appmenu-gtk-module
 auto-tweaks-browser # Pacote Biglinux
 biglinux-mime
-#comm-webapps
-biglinux-webapps
 bigocrpdf
 dmidecode # for inxi -m output
 espeak-ng
@@ -143,7 +141,6 @@ lightdm-webkit2-theme-biglinux
 # System Utilities
 >extra fwupd
 android-tools
-big-store
 biglinux-keyring
 biglinux-systemd-swap
 biglinux-updates-tweaks

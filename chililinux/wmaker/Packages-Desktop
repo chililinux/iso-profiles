@@ -181,7 +181,6 @@ bluez-plugins
 sshfs  # remote filesystem browser
 
 ## Package management
-big-store
 biglinux-keyring
 biglinux-updates-tweaks
 pamac-updates-menu
@@ -229,8 +228,6 @@ appmenu-gtk-module
 auto-tweaks-browser
 bigbashview
 biglinux-mime
-biglinux-webapps
-#comm-webapps
 bigocrpdf
 libappindicator-gtk3
 perl-file-mimeinfo

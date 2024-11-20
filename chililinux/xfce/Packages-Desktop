@@ -142,7 +142,7 @@ biglinux-xfwm-axiomd-theme
 # Utilities
 biglinux-settings
 chili-xfce-wallpapers
-#comm-xfce-config
+chili-xfce-config
 chili-xfce-skel
 ds4-disable-led
 retroarch-tweaks
@@ -183,7 +183,6 @@ zensu
 # System Utilities
 >extra fwupd
 android-tools
-big-store
 biglinux-systemd-swap
 biglinux-updates-tweaks
 bluez-cups
