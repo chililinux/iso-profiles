@@ -48,7 +48,6 @@ GRUB_COLOR_HIGHLIGHT="green/black"
 
 # Uncomment one of them for the gfx desired, a image background or a gfxtheme
 #GRUB_BACKGROUND="/usr/share/grub/background.png"
-#GRUB_THEME="/boot/grub/themes/biglinux/theme.txt"
 GRUB_THEME="/boot/grub/themes/chili/theme.txt"
 GRUB_INIT_TUNE="480 440 1"
 
