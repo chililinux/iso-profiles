@@ -201,7 +201,7 @@ usbasp-udev
 usbtinyisp-udev
 
 # Utilities
-comm-cinnamon-config
+chili-cinnamon-config
 comm-shell-orchis
 chili-wallpapers-cinnamon
 ds4-disable-led
