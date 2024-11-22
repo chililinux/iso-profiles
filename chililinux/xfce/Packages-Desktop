@@ -175,11 +175,6 @@ xdg-desktop-portal-gtk
 xdg-user-dirs-gtk
 zensu
 
-## Display manager
-#lightdm
-#lightdm-webkit2-greeter
-#lightdm-webkit2-theme-community
-
 # System Utilities
 >extra fwupd
 android-tools

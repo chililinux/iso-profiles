@@ -142,11 +142,6 @@ unarchiver  # RAR format support
 xdg-desktop-portal-gtk
 zensu
 
-## Display manager
-lightdm
-lightdm-webkit2-greeter
-lightdm-webkit2-theme-community
-
 # System Utilities
 >extra fwupd
 android-tools
