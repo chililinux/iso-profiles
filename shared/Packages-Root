@@ -223,6 +223,7 @@ pyenv
 chili-nano-config
 iso2usb
 gpaste
+xfce4-terminal
 
 ## Display manager - lightdm
 lightdm
