@@ -221,6 +221,7 @@ qemu-full
 pyenv
 chili-nano-config
 iso2usb
+gpaste
 
 ## Display manager - lightdm
 lightdm
