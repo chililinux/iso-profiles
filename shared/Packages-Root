@@ -122,7 +122,8 @@ biglinux-metapackage
 
 ## BigLinux Specific Configurations
 biglinux-driver-manager
-biglinux-neofetch
+#biglinux-neofetch
+fastfetch
 big-preload
 
 ## Boot
