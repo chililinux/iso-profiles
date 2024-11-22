@@ -175,7 +175,6 @@ zensu
 # System Utilities
 >extra fwupd
 android-tools
-chililinux-keyring
 biglinux-systemd-swap
 biglinux-updates-tweaks
 bluez-cups
