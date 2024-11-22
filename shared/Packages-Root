@@ -219,6 +219,7 @@ btop
 #chili-bashrc
 pyenv
 chili-nano-config
+iso2usb
 
 ## Display manager - lightdm
 lightdm
