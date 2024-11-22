@@ -215,6 +215,8 @@ tree
 duf
 shfmt
 btop
+gparted
+qemu-full
 #shellcheck
 #chili-bashrc
 pyenv
