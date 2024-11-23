@@ -221,7 +221,7 @@ qemu-full
 #chili-bashrc
 pyenv
 chili-nano-config
-chili-auto-tweaks-browser
+auto-tweaks-browser
 chili-void-beauty-icons
 chili-xfwm-axiomd-theme
 iso2usb
