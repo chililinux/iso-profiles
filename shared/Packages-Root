@@ -108,7 +108,7 @@ xfsprogs
 xz
 
 ### BIGLINUX
-biglinux-bash-config
+#biglinux-bash-config
 biglinux-keyring
 
 ### CHILILINUX
