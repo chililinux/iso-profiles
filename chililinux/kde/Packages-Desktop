@@ -150,7 +150,6 @@ system-config-printer-jobs
 # System Tools
 apparmor
 aria2
-auto-tweaks-browser
 bigcontrolcenter
 big-executable
 big-preload

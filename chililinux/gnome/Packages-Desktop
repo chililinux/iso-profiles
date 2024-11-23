@@ -151,7 +151,6 @@ libreoffice-fresh-pt-br
 >extra python-pyqt5
 appimagelauncher
 appmenu-gtk-module
-auto-tweaks-browser # Pacote Biglinux
 biglinux-mime
 bigocrpdf
 dmidecode # for inxi -m output
