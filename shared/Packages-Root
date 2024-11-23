@@ -228,6 +228,15 @@ iso2usb
 gpaste
 xfce4-terminal
 
+#fonts
+noto-fonts-emoji
+ttf-inconsolata
+ttf-inconsolata-go-nerd
+ttf-inconsolata-lgc-nerd
+ttf-inconsolata-nerd
+ttf-sarasa-gothic
+ttf-3270-nerd
+
 ## Display manager - lightdm
 lightdm
 lightdm-webkit2-greeter
