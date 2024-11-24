@@ -127,7 +127,8 @@ fastfetch
 big-preload
 
 ## Boot
-grub-theme-biglinux
+#grub-theme-biglinux
+chili-grub-theme
 timeshift
 grub-btrfs-timeshift
 grub-btrfs
