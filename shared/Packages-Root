@@ -228,6 +228,8 @@ chili-xfwm-axiomd-theme
 iso2usb
 gpaste
 xfce4-terminal
+mate-calc
+blueberry
 
 #fonts
 noto-fonts-emoji
@@ -235,8 +237,11 @@ ttf-inconsolata
 ttf-inconsolata-go-nerd
 ttf-inconsolata-lgc-nerd
 ttf-inconsolata-nerd
-ttf-sarasa-gothic
 ttf-3270-nerd
+ttf-iosevka-nerd
+ttf-iosevkaterm-nerd
+ttf-iosevkatermslab-nerd
+ttf-sarasa-gothic
 
 ## Display manager - lightdm
 lightdm
