@@ -142,7 +142,7 @@ lightdm-webkit2-theme-biglinux
 android-tools
 biglinux-keyring
 biglinux-systemd-swap
-biglinux-updates-tweaks
+#biglinux-updates-tweaks
 bluez-cups
 compsize
 debtap-mod

@@ -182,7 +182,7 @@ sshfs  # remote filesystem browser
 
 ## Package management
 biglinux-keyring
-biglinux-updates-tweaks
+#biglinux-updates-tweaks
 pamac-updates-menu
 pamac-gtk3
 force-upgrade
