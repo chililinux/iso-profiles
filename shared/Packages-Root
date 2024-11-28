@@ -172,6 +172,7 @@ pipewire-jack
 wireplumber
 chmlib
 tesseract-data-spa
+pavucontrol
 
 ## Video and Driver Support Biglinux
 biglinux-vaapi

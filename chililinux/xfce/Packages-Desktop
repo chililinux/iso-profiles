@@ -23,7 +23,7 @@ network-manager-applet
 nm-connection-editor
 ocs-url
 #parole
-pavucontrol
+#pavucontrol
 playerctl
 pix
 ristretto
