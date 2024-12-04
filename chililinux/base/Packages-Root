@@ -42,7 +42,7 @@ mhwd
 mhwd-db
 mkinitcpio-openswap
 nano
-nano-syntax-highlighting
+#nano-syntax-highlighting
 networkmanager
 nfs-utils
 ntfs-3g
@@ -67,6 +67,11 @@ xfsprogs
 plymouth
 chili-os-release-name
 chili-skel
-#chili-nanorc
+chili-nanorc
 #chili-bashrc
 bigcontrolcenter-base
+duf
+shfmt
+shellcheck
+inxi
+htop
