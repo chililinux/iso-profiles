@@ -1,0 +1,15 @@
+# Pacotes básicos
+base
+linux-lts
+linux-lts-headers
+man-db
+man-pages
+bash-completion
+nano
+
+# Ferramentas adicionais
+grub
+os-prober
+efibootmgr
+networkmanager
+dialog

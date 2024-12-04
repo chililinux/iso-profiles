@@ -1,0 +1,20 @@
+# Gerenciador de rede
+networkmanager
+network-manager-applet
+dhcpcd
+
+# Utilitários live
+mkinitcpio
+calamares
+alsa-utils
+pulseaudio
+pulseaudio-alsa
+
+# Interface gráfica
+xorg-server
+xorg-xinit
+xf86-video-vesa
+mesa
+
+# Drivers opcionais
+xf86-input-libinput
