@@ -65,6 +65,7 @@ wpa_supplicant
 xfsprogs
 ###########################################
 plymouth
+plymouth-theme-chili
 chili-os-release-name
 chili-skel
 chili-nano-config
