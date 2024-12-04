@@ -1,3 +1,9 @@
 mhwd
+mhwd-amdgpu
+mhwd-ati
 mhwd-db
+mhwd-nvidia
+mhwd-nvidia-390xx
+mhwd-nvidia-470xx
+mhwd-biglinux
 linux-lts-headers
