@@ -1,7 +1,7 @@
 # Pacotes básicos
 base
-linux-lts
-linux-lts-headers
+#linux-lts
+#linux-lts-headers
 man-db
 man-pages
 bash-completion
