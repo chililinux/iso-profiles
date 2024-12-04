@@ -6,9 +6,9 @@ dhcpcd
 # Utilitários live
 mkinitcpio
 calamares
-alsa-utils
-pulseaudio
-pulseaudio-alsa
+#alsa-utils
+#pulseaudio
+#pulseaudio-alsa
 
 # Interface gráfica
 #xorg-server
