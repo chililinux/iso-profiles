@@ -67,5 +67,6 @@ xfsprogs
 plymouth
 chili-os-release-name
 chili-skel
-chili-nanorc
+#chili-nanorc
+#chili-bashrc
 bigcontrolcenter-base
