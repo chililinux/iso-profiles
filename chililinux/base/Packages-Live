@@ -11,10 +11,10 @@ pulseaudio
 pulseaudio-alsa
 
 # Interface gráfica
-xorg-server
-xorg-xinit
-xf86-video-vesa
-mesa
+#xorg-server
+#xorg-xinit
+#xf86-video-vesa
+#mesa
 
 # Drivers opcionais
-xf86-input-libinput
+#xf86-input-libinput
