@@ -1,8 +1,8 @@
 [H[2J
-Manjaro Live ISO (\l) - \s-\r \m
+ChiliLinux Live ISO (\l) - \s-\r \m
 
 
-                 \e[0m# Welcome to Manjaro #
+                 \e[0m# Welcome to ChiliLinux #
 
 
               \e[34m██████████████████  ████████
@@ -23,8 +23,8 @@ Manjaro Live ISO (\l) - \s-\r \m
 
                          login:
 
-                   \e[34muser\e[0m     \e[1m\e[36mmanjaro\e[0m
-                   \e[34mpassword\e[0m \e[1m\e[36mmanjaro\e[0m
+                   \e[34muser\e[0m     \e[1m\e[36mchili\e[0m
+                   \e[34mpassword\e[0m \e[1m\e[36mchili\e[0m
 
           To launch the installer type: \e[1m\e[36msetup\e[0m
 
