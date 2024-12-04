@@ -67,7 +67,7 @@ xfsprogs
 plymouth
 chili-os-release-name
 chili-skel
-chili-nanorc
+chili-nano-config
 #chili-bashrc
 bigcontrolcenter-base
 duf
@@ -75,3 +75,6 @@ shfmt
 shellcheck
 inxi
 htop
+nginx
+nginx-mod-http-xslt-filter
+openssh
