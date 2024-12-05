@@ -24,8 +24,8 @@ ChiliLinux Base Live ISO (\l) - \s-\r \m
 
                          login:
 
-                   \e[34muser\e[0m     \e[1m\e[36mchili\e[0m
-                   \e[34mpassword\e[0m \e[1m\e[36mchili\e[0m
+                   \e[34muser\e[0m     \e[1m\e[36mlive\e[0m
+                   \e[34mpassword\e[0m \e[1m\e[36mlive\e[0m
 
           To launch the installer type: \e[1m\e[36mchili-install\e[0m
 
