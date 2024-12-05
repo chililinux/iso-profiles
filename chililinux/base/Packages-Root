@@ -70,14 +70,31 @@ chili-os-release-name
 chili-skel
 chili-nano-config
 chili-bashrc
+chili-grub-theme
+chili-clonedisk
 bigcontrolcenter-base
+harbour-bin
+gitrepo
 tree
 duf
 shfmt
-shellcheck
 inxi
 htop
 net-tools
+lynx
+curl
+dialog
+#shellcheck
+
+#FIRMWARE
+aic94xx-firmware
+ast-firmware
+upd72020x-fw
+wd719x-firmware
+rtl8821ce-dkms-git
+rtl8821au-dkms-git
+rtl8814au-dkms-git
+broadcom-bt-firmware-git
 
 #HTTP SERVER
 nginx
