@@ -71,7 +71,7 @@ chili-skel
 chili-nano-config
 chili-bashrc
 chili-grub-theme
-chili-clonedisk
+#chili-clonedisk
 bigcontrolcenter-base
 harbour-bin
 gitrepo
