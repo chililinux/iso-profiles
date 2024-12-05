@@ -69,7 +69,7 @@ plymouth-theme-chili
 chili-os-release-name
 chili-skel
 chili-nano-config
-#chili-bashrc
+chili-bashrc
 bigcontrolcenter-base
 tree
 duf
@@ -77,6 +77,11 @@ shfmt
 shellcheck
 inxi
 htop
+net-tools
+
+#HTTP SERVER
 nginx
 nginx-mod-http-xslt-filter
+
+#SSH SERVER
 openssh
