@@ -70,6 +70,7 @@ chili-os-release-name
 chili-skel
 chili-nano-config
 chili-bashrc
+chili-install
 pyenv
 chili-grub-theme
 #chili-clonedisk
