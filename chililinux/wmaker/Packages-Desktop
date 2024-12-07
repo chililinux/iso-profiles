@@ -235,15 +235,19 @@ xdg-user-dirs
 xdg-utils
 zensu
 
-## Xorg Server and Graphics
+# Multilib
 >multilib lib32-libva-intel-driver
->multilib lib32-libva-mesa-driver
+>multilib lib32-mesa
+#>multilib lib32-libva-mesa-driver
 #>multilib lib32-libva-vdpau-driver
+>multilib lib32-mesa-utils
+mesa
+
+## Xorg Server and Graphics
 libva-intel-driver
 libva-mesa-driver
 libva-vdpau-driver
 mesa-utils
->multilib lib32-mesa-utils
 numlockx
 #xdg-user-dirs
 xorg-server
