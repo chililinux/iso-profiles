@@ -72,6 +72,7 @@ chili-nano-config
 chili-bashrc
 chili-install
 chili-fetch
+chili-utils
 pyenv
 chili-grub-theme
 #chili-clonedisk
