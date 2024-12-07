@@ -100,7 +100,7 @@ xf86-input-vmmouse
 # Multilib
 >multilib lib32-libva-intel-driver
 >multilib lib32-libva-mesa-driver
-#>multilib lib32-libva-vdpau-driver
+>multilib lib32-libva-vdpau-driver
 >multilib lib32-mesa-utils
 lib32-fontconfig
 lib32-gettext
