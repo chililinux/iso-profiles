@@ -11,6 +11,7 @@ gnome-calculator
 gnome-disk-utility
 guvcview
 guvcview-qt
+indicator-sound-switcher
 intltool
 light-locker
 materiav2-gtk-theme
@@ -23,7 +24,7 @@ network-manager-applet
 nm-connection-editor
 ocs-url
 #parole
-#pavucontrol
+pavucontrol
 playerctl
 pix
 ristretto
@@ -305,7 +306,7 @@ xf86-input-vmmouse
 # Multilib
 >multilib lib32-libva-intel-driver
 >multilib lib32-libva-mesa-driver
->multilib lib32-libva-vdpau-driver
+#>multilib lib32-libva-vdpau-driver
 >multilib lib32-mesa-utils
 lib32-fontconfig
 lib32-gettext
