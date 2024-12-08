@@ -27,7 +27,6 @@ ecryptfs-utils
 efibootmgr
 exfatprogs
 f2fs-tools
-glibc-locales
 file
 filesystem
 findutils
@@ -38,7 +37,6 @@ gettext
 glibc
 grep
 grub
-install-grub
 gzip
 hdparm
 hunspell-en_us
@@ -62,21 +60,11 @@ manjaro-keyring
 manjaro-release
 manjaro-system
 manjaro-tools-base
-man-db
-man-pages
-manjaro-release
-manjaro-system
-manjaro-tools-base
-manjaro-zsh-config
 mdadm
-memtest86+
-memtest86+-efi
 mhwd
 mhwd-db
 mkinitcpio-openswap
 nano
-#nano-syntax-highlighting
-networkmanager
 nfs-utils
 ntfs-3g
 ocl-icd
@@ -104,7 +92,6 @@ systemd
 systemd-sysvcompat
 tar
 texinfo
-update-grub
 usbutils
 util-linux
 vi
@@ -119,55 +106,13 @@ x86_energy_perf_policy
 xapian-core
 xfsprogs
 xz
-###########################################
-chili-skel
-chili-nano-config
-#chili-bashrc
-chili-install
-chili-fetch
-chili-utils
-pyenv
-chili-grub-theme
-#chili-clonedisk
-bigcontrolcenter-base
-harbour-bin
-gitrepo
-tree
-duf
-shfmt
-inxi
-htop
-net-tools
-lynx
-curl
-dialog
-#shellcheck
-
-#HTTP SERVER
-nginx
-nginx-mod-http-xslt-filter
-
-#SSH SERVER
-openssh
 
 ### BIGLINUX
-biglinux-bash-config
+#biglinux-bash-config
 biglinux-keyring
 
-#HTTP SERVER
-nginx
-nginx-mod-http-xslt-filter
-
-#SSH SERVER
-openssh
-
-### BIGLINUX
-biglinux-bash-config
-biglinux-keyring
-
-### COMMUNITY
-chili-livecd-key
-chili-keyring
+### CHILILINUX
+chililinux-keyring
 
 ## Visual/theme
 bigicons-papient
@@ -177,16 +122,17 @@ biglinux-metapackage
 
 ## BigLinux Specific Configurations
 biglinux-driver-manager
+#biglinux-neofetch
 fastfetch
 big-preload
 
 ## Boot
+#grub-theme-biglinux
 chili-grub-theme
 timeshift
 grub-btrfs-timeshift
 grub-btrfs
 big-first-boot
-plymouth
 plymouth-theme-chili
 update-grub
 
@@ -208,9 +154,6 @@ bigsudo
 ## Sound/Audio/Video
 biglinux-meta-audio-config
 pipewire-jack-dropin
-manjaro-pipewire
-pipewire-jack
-wireplumber
 biglinux-noise-reduction-pipewire
 alsa-firmware
 alsa-utils
@@ -224,20 +167,24 @@ gst-plugins-ugly
 libcanberra
 libcanberra-pulse
 libdvdcss
+manjaro-pipewire
+pipewire-jack
+wireplumber
 chmlib
 tesseract-data-spa
+pavucontrol
 
 ## Video and Driver Support Biglinux
 biglinux-vaapi
 gtkmm3
-#lib32-libva-vdpau-driver
+lib32-libva-vdpau-driver
 lib32-mesa-vdpau
 lib32-vulkan-intel
 lib32-vulkan-nouveau
 lib32-vulkan-radeon
 libva-intel-driver
-lib32-mesa
-# libva-vdpau-driver
+libva-mesa-driver
+libva-vdpau-driver
 mesa-vdpau
 mhwd-biglinux
 spice-vdagent
@@ -265,10 +212,59 @@ open-vm-tools
 qemu-guest-agent
 virtualbox-guest-utils
 
-## Driver Wifi USB - FIRMWARE
-#rtl88x2bu-dkms
-rtl8821ce-dkms-git
-rtl8821au-dkms-git
-rtl8814au-dkms-git
-broadcom-bt-firmware-git
+#fonts
+noto-fonts-emoji
+ttf-inconsolata
+ttf-inconsolata-go-nerd
+ttf-inconsolata-lgc-nerd
+ttf-inconsolata-nerd
+ttf-3270-nerd
+ttf-iosevka-nerd
+ttf-iosevkaterm-nerd
+ttf-iosevkatermslab-nerd
+ttf-sarasa-gothic
 
+## Display manager - lightdm
+lightdm
+lightdm-webkit2-greeter
+lightdm-webkit2-theme-community
+#lightdm-deepin-greeter
+
+## Display manager - lxdm
+lxdm
+#lxdm-gtk3
+manjaro-flatred-lxdm-theme
+#lxdm-greeter-gtk
+
+# Big Apps
+big-store
+chili-webapps
+chili-restore-config
+
+#Browsers
+firefox
+google-chrome
+
+# extra packages for ChiliLinux
+tree
+duf
+shfmt
+btop
+gparted
+#qemu-full
+#shellcheck
+pyenv
+chili-nano-config
+auto-tweaks-browser
+chili-void-beauty-icons
+chili-xfwm-axiomd-theme
+iso2usb
+gpaste
+xfce4-terminal
+mate-calc
+blueberry
+dwarfs
+chili-install
+chili-fetch
+chili-utils
+#chili-bashrc
