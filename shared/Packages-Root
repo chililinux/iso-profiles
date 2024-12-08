@@ -177,8 +177,7 @@ biglinux-metapackage
 
 ## BigLinux Specific Configurations
 biglinux-driver-manager
-biglinux-nano-config
-biglinux-neofetch
+fastfetch
 big-preload
 
 ## Boot
