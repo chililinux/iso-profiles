@@ -4,6 +4,7 @@
 acpi
 acpid
 amd-ucode
+intel-ucode
 archlinux-keyring
 aspell-pt
 b43-fwcutter
@@ -41,7 +42,6 @@ gzip
 hdparm
 hunspell-en_us
 inetutils
-intel-ucode
 iproute2
 iputils
 irqbalance
