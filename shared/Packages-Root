@@ -208,6 +208,9 @@ bigsudo
 ## Sound/Audio/Video
 biglinux-meta-audio-config
 pipewire-jack-dropin
+manjaro-pipewire
+pipewire-jack
+wireplumber
 biglinux-noise-reduction-pipewire
 alsa-firmware
 alsa-utils
@@ -221,9 +224,6 @@ gst-plugins-ugly
 libcanberra
 libcanberra-pulse
 libdvdcss
-manjaro-pipewire
-#pipewire-jack
-wireplumber
 chmlib
 tesseract-data-spa
 
