@@ -329,8 +329,8 @@ lib32-libxslt
 lib32-mpg123
 lib32-nss-mdns
 lib32-openal
-#lib32-pipewire-jack
-lib32-jack2
+lib32-pipewire-jack
+#lib32-jack2
 lib32-sdl12-compat
 lib32-sdl2
 lib32-v4l-utils
