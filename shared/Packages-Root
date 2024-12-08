@@ -223,7 +223,7 @@ libcanberra
 libcanberra-pulse
 libdvdcss
 manjaro-pipewire
-pipewire-jack
+#pipewire-jack
 wireplumber
 chmlib
 tesseract-data-spa
