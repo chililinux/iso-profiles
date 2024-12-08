@@ -120,9 +120,6 @@ xapian-core
 xfsprogs
 xz
 ###########################################
-plymouth
-plymouth-theme-chili
-chili-os-release-name
 chili-skel
 chili-nano-config
 chili-bashrc
@@ -169,8 +166,8 @@ biglinux-bash-config
 biglinux-keyring
 
 ### COMMUNITY
-community-livecd-key
-community-keyring
+chili-livecd-key
+chili-keyring
 
 ## Visual/theme
 bigicons-papient
@@ -185,16 +182,17 @@ biglinux-neofetch
 big-preload
 
 ## Boot
-grub-theme-community
+chili-grub-theme
 timeshift
 grub-btrfs-timeshift
 grub-btrfs
 big-first-boot
-plymouth-theme-community
+plymouth
+plymouth-theme-chili
 update-grub
 
 ## Tweaks
-bigcommunity-name
+chili-os-release-name
 biglinux-l18n
 # faster-mkinitcpio
 biglinux-improve-compatibility
