@@ -1,12 +1,12 @@
 calamares
+#calamares-biglinux
+calamares-chili
 gparted
 grub-theme-live-manjaro
 manjaro-live-systemd
 mkinitcpio-nfs-utils
 nbd
 timeshift
-#calamares-biglinux
-calamares-chili
 biglinux-livecd
 biglinux-grub-restore
 memtest86+
