@@ -157,7 +157,6 @@ biglinux-mime
 biglinux-systemd-swap
 biglinux-themes-gui
 biglinux-updates-tweaks
-bigocrpdf
 compsize
 cryfs
 debtap-mod
@@ -197,7 +196,6 @@ spice-vdagent-autostart-kde
 sync-kde-and-gtk-places
 sysctl-network
 thermald
-tts-biglinux
 udiskie
 unarchiver
 uriparser

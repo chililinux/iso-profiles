@@ -1,67 +1,93 @@
-# DEEPIN Applications
-deepin-account-faces
-# deepin-album
-deepin-anything
-deepin-api
-deepin-app-services
-deepin-appearance
-deepin-application-manager
-# deepin-boot-maker
-deepin-calendar
-deepin-calculator
-deepin-camera
-deepin-clipboard
-deepin-clone
-deepin-compressor
-deepin-control-center
-deepin-daemon
-deepin-desktop-base
-deepin-desktop-schemas
-deepin-desktop-theme
-deepin-device-formatter
-deepin-dock
-deepin-draw
-deepin-editor
-deepin-file-manager
-deepin-font-manager
-deepin-grand-search
-deepin-gtk-theme
-deepin-icon-theme
-deepin-image-viewer
-deepin-launchpad
-deepin-menu
-deepin-movie
-deepin-music
-deepin-network-core
-deepin-network-utils
-deepin-picker
-deepin-polkit-agent
-deepin-polkit-agent-ext-gnomekeyring
-deepin-printer
-deepin-pw-check
-deepin-qt5integration
-deepin-qt5platform-plugins
-deepin-screen-recorder
-# deepin-screensaver
-# deepin-screensaver-pp
-deepin-session
-deepin-session-shell
-deepin-session-ui
-deepin-shortcut-viewer
-deepin-sound-theme
-deepin-system-monitor
-deepin-terminal
-deepin-turbo
-deepin-voice-note
-# deepin-wallpapers
-deepin-widgets
-deepin-wloutput-daemon
-docparser
-startdde
-xdg-user-dirs
+# FULLX Applications
+#atril
+blueman
+catfish
+evince
+exo
+ffmpegthumbnailer
+garcon
+gnome-online-accounts-gtk
+gnome-calculator
+gnome-disk-utility
+guvcview
+guvcview-qt
+indicator-sound-switcher
+intltool
+light-locker
+materiav2-gtk-theme
+mousepad
+menulibre
+mugshot
+mystiq
+numlockx
+network-manager-applet
+nm-connection-editor
+ocs-url
+#parole
+pavucontrol
+playerctl
+pix
+ristretto
+simplescreenrecorder
+sync-gnome-theme-to-qt
+thunar
+thunar-archive-plugin
+thunar-media-tags-plugin
+thunar-shares-plugin
+thunar-volman
+thunarx-python
+tumbler
+vlc
+xed
+xfce4-appfinder
+xfce4-artwork
+xfce4-battery-plugin
+xfce4-clipman-plugin
+xfce4-cpufreq-plugin
+xfce4-cpugraph-plugin
+xfce4-datetime-plugin
+xfce4-dict
+xfce4-diskperf-plugin
+xfce4-eyes-plugin
+xfce4-fsguard-plugin
+xfce4-genmon-plugin
+xfce4-mailwatch-plugin
+xfce4-mount-plugin
+xfce4-mpc-plugin
+xfce4-netload-plugin
+xfce4-notes-plugin
+xfce4-notifyd
+xfce4-panel
+xfce4-panel-profiles
+xfce4-power-manager
+xfce4-pulseaudio-plugin
+xfce4-screensaver
+xfce4-screenshooter
+xfce4-sensors-plugin
+xfce4-session
+xfce4-settings
+xfce4-smartbookmark-plugin
+xfce4-systemload-plugin
+xfce4-taskmanager
+xfce4-terminal
+xfce4-time-out-plugin
+xfce4-timer-plugin
+xfce4-verve-plugin
+xfce4-wavelan-plugin
+xfce4-weather-plugin
+xfce4-xkb-plugin
+xfce4-whiskermenu-plugin
+xfconf
+xfdesktop
+xfwm4
+xfwm4-themes
+xarchiver
 
-# Browsers
-brave-browser
+# Games
+gnuchess
+gnome-mines
+aisleriot
+gnujump
 
 # Development Tools
 autoconf
@@ -79,7 +105,7 @@ adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-kr-fonts
 adobe-source-sans-pro-fonts
 cantarell-fonts # Installed as gnome-themes-standard dependency
-noto-fonts-lite # New default font
+#noto-fonts-lite # New default font
 noto-nerd-fonts-lite
 # terminus-font
 # ttf-caladea
@@ -95,6 +121,28 @@ ttf-roboto-slab
 # Office
 libreoffice-fresh-pt-br
 
+# Themes and Icons
+adw-gtk-theme
+bibata-cursor-theme
+breeze-icons
+conky-manager2-git
+gtk-engine-murrine
+gtk-engines
+qadwaitadecorations-qt6
+qt6-svg
+bigicons-papient
+# qogir-gtk-theme
+# qogir-icon-theme
+# plank
+xfce4-docklike-plugin
+
+# Utilities
+chili-xfce-wallpapers
+chili-xfce-config
+#chili-xfce-skel
+ds4-disable-led
+retroarch-tweaks
+
 # System Configuration
 >extra python-pillow
 >extra python-pip
@@ -103,10 +151,10 @@ appimagelauncher
 appmenu-gtk-module
 biglinux-mime
 dmidecode # for inxi -m output
+espeak-ng
 htop
 inxi
 libappindicator-gtk3
-lightdm
 orca
 p7zip  # 7Z format support
 perl-file-mimeinfo
@@ -115,22 +163,25 @@ powertop
 python-pysmbc # SMB browser support
 speech-dispatcher
 unarchiver  # RAR format support
-xdg-desktop-portal-dde
+xdg-desktop-portal-gtk
+xdg-user-dirs-gtk
 zensu
 
 # System Utilities
 >extra fwupd
 android-tools
-biglinux-keyring
+biglinux-systemd-swap
 #biglinux-updates-tweaks
 bluez-cups
 compsize
 debtap-mod
 hplip
+ipp-usb
 manjaro-application-utility
 manjaro-printer
+pamac-updates-menu
 pamac-flatpak-plugin
-qt6-wayland
+#qt6-wayland
 rpmtoarch
 sane-airscan
 splix
@@ -139,10 +190,37 @@ system-config-printer-jobs
 thermald
 virtualbox-guest-utils
 
-# Themes and Icons
-qadwaitadecorations-qt6
-bigicons-papient
-qt6-svg
+# Wayland
+#wayland-protocols
+#wayland-utils
+
+# Miscellaneous
+libdnet
+gdk-pixbuf-xlib
+uriparser
+libmspack
+
+# Additional Packages
+fatresize
+gamemode
+grilo-plugins
+gvfs
+gvfs-afc
+gvfs-dnssd
+gvfs-goa
+gvfs-google
+gvfs-gphoto2
+gvfs-mtp
+gvfs-nfs
+gvfs-onedrive
+gvfs-smb
+gvfs-wsdd
+manjaro-settings-samba
+mtools
+mtpfs
+rustdesk-bin
+steam
+udiskie
 
 ## Virtual Machines
 open-vm-tools
@@ -156,7 +234,7 @@ compsize
 xf86-input-synaptics
 mtools
 fatresize
-ipp-usb
+thermald
 
 # Network Tools
 modemmanager
@@ -173,30 +251,6 @@ openssh
 qemu-guest-agent
 sysctl-network
 usb_modeswitch
-
-# Utilities
-big-dde-config
-biglinux-wallpapers-dde
-ds4-disable-led
-retroarch-tweaks
-
-# Virtualization
-bluez-utils
-sshfs  # remote filesystem browser
-
-# Xorg
-numlockx
-xorg-mkfontscale
-xorg-server
-xorg-twm
-xorg-xinit
-xorg-xkill
-
-# Input Devices
-xf86-input-elographics
-xf86-input-evdev
-xf86-input-synaptics
-xf86-input-vmmouse
 
 # Udev Rules
 adafruit-boards-udev
@@ -223,6 +277,24 @@ trezor-udev
 usb-dirty-pages-udev
 usbasp-udev
 usbtinyisp-udev
+
+# Virtualization
+bluez-utils
+sshfs  # remote filesystem browser
+
+# Xorg
+numlockx
+xorg-mkfontscale
+xorg-server
+xorg-twm
+xorg-xinit
+xorg-xkill
+
+# Input Devices
+xf86-input-elographics
+xf86-input-evdev
+xf86-input-synaptics
+xf86-input-vmmouse
 
 # Multilib
 >multilib lib32-libva-intel-driver
@@ -251,29 +323,7 @@ lib32-mpg123
 lib32-nss-mdns
 lib32-openal
 lib32-pipewire-jack
+#lib32-jack2
 lib32-sdl12-compat
 lib32-sdl2
 lib32-v4l-utils
-
-# Additional Packages
-fatresize
-gamemode
-grilo-plugins
-gvfs
-gvfs-afc
-gvfs-dnssd
-gvfs-goa
-gvfs-google
-gvfs-gphoto2
-gvfs-mtp
-gvfs-nfs
-gvfs-onedrive
-gvfs-smb
-gvfs-wsdd
-manjaro-settings-samba
-mtools
-mtpfs
-rustdesk-bin
-steam
-udiskie
-# llvm16-libs

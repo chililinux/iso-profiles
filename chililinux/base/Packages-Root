@@ -24,6 +24,7 @@ glibc-locales
 grub
 install-grub
 inetutils
+net-tools
 intel-ucode
 jfsutils
 KERNEL
@@ -84,7 +85,6 @@ duf
 shfmt
 inxi
 htop
-net-tools
 lynx
 curl
 dialog

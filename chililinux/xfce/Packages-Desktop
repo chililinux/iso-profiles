@@ -137,7 +137,6 @@ bigicons-papient
 xfce4-docklike-plugin
 
 # Utilities
-biglinux-settings
 chili-xfce-wallpapers
 chili-xfce-config
 #chili-xfce-skel
@@ -151,7 +150,6 @@ retroarch-tweaks
 appimagelauncher
 appmenu-gtk-module
 biglinux-mime
-bigocrpdf
 dmidecode # for inxi -m output
 espeak-ng
 htop
@@ -164,7 +162,6 @@ pipewire-biglinux-config-git
 powertop
 python-pysmbc # SMB browser support
 speech-dispatcher
-tts-biglinux
 unarchiver  # RAR format support
 xdg-desktop-portal-gtk
 xdg-user-dirs-gtk

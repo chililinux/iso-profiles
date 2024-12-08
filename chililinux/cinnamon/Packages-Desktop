@@ -122,7 +122,6 @@ libreoffice-fresh-pt-br
 appimagelauncher
 appmenu-gtk-module
 biglinux-mime
-bigocrpdf
 dmidecode # for inxi -m output
 espeak-ng
 gdm
@@ -136,7 +135,6 @@ pipewire-biglinux-config-git
 powertop
 python-pysmbc # SMB browser support
 speech-dispatcher
-tts-biglinux
 unarchiver  # RAR format support
 xdg-desktop-portal-gtk
 zensu

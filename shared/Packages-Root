@@ -7,7 +7,7 @@ amd-ucode
 archlinux-keyring
 aspell-pt
 b43-fwcutter
-# bash
+bash
 bash-completion
 btrfs-progs
 bzip2
@@ -110,8 +110,6 @@ xz
 ### BIGLINUX
 #biglinux-bash-config
 biglinux-keyring
-
-### CHILILINUX
 chililinux-keyring
 
 ## Visual/theme
@@ -121,7 +119,6 @@ biglinux-apps-rename
 biglinux-metapackage
 
 ## BigLinux Specific Configurations
-biglinux-driver-manager
 #biglinux-neofetch
 fastfetch
 big-preload
@@ -154,7 +151,6 @@ bigsudo
 ## Sound/Audio/Video
 biglinux-meta-audio-config
 pipewire-jack-dropin
-biglinux-noise-reduction-pipewire
 alsa-firmware
 alsa-utils
 ffmpeg
@@ -236,8 +232,14 @@ lxdm
 manjaro-flatred-lxdm-theme
 #lxdm-greeter-gtk
 
-# Big Apps
+# BigApps
+biglinux-noise-reduction-pipewire
+bigocrpdf
+tts-biglinux
+biglinux-settings
+biglinux-driver-manager
 big-store
+bigcontrolcenter-base
 chili-webapps
 chili-restore-config
 
@@ -268,3 +270,4 @@ chili-install
 chili-fetch
 chili-utils
 #chili-bashrc
+net-tools
