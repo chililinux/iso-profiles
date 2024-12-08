@@ -177,7 +177,7 @@ pavucontrol
 ## Video and Driver Support Biglinux
 biglinux-vaapi
 gtkmm3
-lib32-libva-vdpau-driver
+#lib32-libva-vdpau-driver
 lib32-mesa-vdpau
 lib32-vulkan-intel
 lib32-vulkan-nouveau
