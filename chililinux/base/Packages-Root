@@ -77,7 +77,7 @@ chili-utils
 pyenv
 chili-grub-theme
 #chili-clonedisk
-bigcontrolcenter-base
+#bigcontrolcenter-base
 harbour-bin
 gitrepo
 tree
@@ -89,6 +89,7 @@ lynx
 curl
 dialog
 #shellcheck
+pacman-contrib
 
 #FIRMWARE
 rtl8821ce-dkms-git
