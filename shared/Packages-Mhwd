@@ -3,7 +3,6 @@
 >office freeoffice
 
 ## Normal MHWD package list
-
 KERNEL-bbswitch
 KERNEL-broadcom-wl
 #KERNEL-r8168
