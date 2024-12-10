@@ -9,7 +9,7 @@ open-vm-tools
 manjaro-live-systemd
 networkmanager
 terminus-font
-virtualbox-guest-utils
+#virtualbox-guest-utils
 xdg-user-dirs
 xf86-input-elographics
 xf86-input-evdev
