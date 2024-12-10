@@ -333,7 +333,7 @@ python-yaml
 qemu-guest-agent
 readline
 refind
-reflector
+#reflector
 reiserfsprogs
 rp-pppoe
 rpcbind
