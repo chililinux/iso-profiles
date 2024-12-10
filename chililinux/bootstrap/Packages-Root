@@ -5,8 +5,8 @@ alsa-ucm-conf
 alsa-utils
 amd-ucode
 arch-install-scripts
-archinstall
 archlinux-keyring
+manjaro-keyring
 argon2
 attr
 audit
