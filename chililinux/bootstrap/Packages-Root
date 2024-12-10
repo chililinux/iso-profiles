@@ -320,7 +320,7 @@ os-prober
 p11-kit
 pacman
 pacman-contrib
-pacman-mirrorlist
+#pacman-mirrorlist #conflict com reflector
 pam
 pambase
 partclone
