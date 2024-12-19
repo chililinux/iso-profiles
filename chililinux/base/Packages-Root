@@ -70,7 +70,7 @@ plymouth-theme-chili
 chili-os-release-name
 chili-skel
 chili-nano-config
-chili-bashrc
+#chili-bashrc
 chili-install
 chili-fetch
 chili-utils
