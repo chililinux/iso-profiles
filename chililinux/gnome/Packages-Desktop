@@ -5,6 +5,7 @@ brave-browser
 autoconf
 automake
 make
+glib2-devel
 
 # Fonts
 >extra noto-fonts-emoji
@@ -73,12 +74,15 @@ nautilus-image-converter
 nautilus-share
 python-nautilus
 rygel
+showtime
 simple-scan
 sushi
 sync-gnome-theme-to-qt # Pacote Biglinux
-totem
 tracker3-miners
 xdg-user-dirs-gtk
+
+# Community extra config
+custom-tweaks
 
 # GNOME Shell Extensions
 gnome-shell-extension-arc-menu
@@ -153,7 +157,9 @@ libreoffice-fresh-pt-br
 >extra python-pyqt5
 appimagelauncher
 appmenu-gtk-module
+auto-tweaks-browser # Pacote Biglinux
 biglinux-mime
+bigocrpdf
 dmidecode # for inxi -m output
 espeak-ng
 gdm
@@ -167,6 +173,7 @@ pipewire-biglinux-config-git
 powertop
 python-pysmbc # SMB browser support
 speech-dispatcher
+tts-biglinux
 unarchiver  # RAR format support
 xdg-desktop-portal-gtk
 zensu
@@ -181,6 +188,7 @@ compsize
 debtap-mod
 hplip
 ipp-usb
+iso2usb
 manjaro-application-utility
 manjaro-printer
 pamac-updates-menu
@@ -195,6 +203,7 @@ thermald
 virtualbox-guest-utils
 
 # Themes and Icons
+comm-shell-orchis
 bibata-cursor-theme
 breeze-icons
 gnome-themes-extra
