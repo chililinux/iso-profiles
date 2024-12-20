@@ -236,7 +236,7 @@ manjaro-flatred-lxdm-theme
 biglinux-noise-reduction-pipewire
 bigocrpdf
 tts-biglinux
-biglinux-settings
+#biglinux-settings
 biglinux-driver-manager
 big-store
 bigcontrolcenter-base
