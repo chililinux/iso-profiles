@@ -110,6 +110,7 @@ xz
 ### BIGLINUX
 #biglinux-bash-config
 biglinux-keyring
+community-keyring
 chili-keyring
 
 ## Visual/theme
