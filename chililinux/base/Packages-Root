@@ -104,4 +104,5 @@ nginx-mod-http-xslt-filter
 
 #SSH SERVER
 openssh
-
+chili-livecd-key
+chili-keyring
