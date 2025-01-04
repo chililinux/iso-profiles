@@ -125,7 +125,6 @@ fastfetch
 big-preload
 
 ## Boot
-#grub-theme-biglinux
 chili-grub-theme
 timeshift
 grub-btrfs-timeshift
@@ -135,6 +134,7 @@ plymouth-theme-chili
 update-grub
 
 ## Tweaks
+chili-skel
 chili-os-release-name
 biglinux-l18n
 # faster-mkinitcpio
