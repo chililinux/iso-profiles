@@ -1,3 +1,6 @@
+# Browsers
+brave-browser
+
 # Development Tools
 autoconf
 automake
@@ -13,7 +16,7 @@ adobe-source-han-sans-cn-fonts
 adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-kr-fonts
 adobe-source-sans-pro-fonts
-#noto-fonts-lite # New default font
+noto-fonts-lite # New default font
 noto-nerd-fonts-lite
 # terminus-font
 # ttf-caladea
@@ -28,6 +31,7 @@ ttf-roboto-slab
 
 # CINNAMON Applications
 adw-gtk-theme
+blueberry
 celluloid
 cinnamon
 cinnamon-applet-cinnamenu
@@ -36,10 +40,14 @@ cinnamon-control-center
 cinnamon-remove-application
 cinnamon-sounds
 cinnamon-translations
+folder-color-nemo
 gnome-calculator
+gnome-disk-utility
+gnome-online-accounts
 gnome-screenshot
 gnome-system-monitor
 gnome-terminal
+gpaste
 nemo
 nemo-audio-tab
 nemo-emblems
@@ -67,7 +75,7 @@ xf86-input-vmmouse
 # Multilib
 >multilib lib32-libva-intel-driver
 >multilib lib32-mesa
-#>multilib lib32-libva-mesa-driver
+>multilib lib32-mesa-vdpau
 #>multilib lib32-libva-vdpau-driver
 >multilib lib32-mesa-utils
 mesa
@@ -121,7 +129,10 @@ libreoffice-fresh-pt-br
 >extra python-pyqt5
 appimagelauncher
 appmenu-gtk-module
+auto-tweaks-browser # Pacote Biglinux
 biglinux-mime
+biglinux-webapps
+bigocrpdf
 dmidecode # for inxi -m output
 espeak-ng
 gdm
@@ -135,13 +146,20 @@ pipewire-biglinux-config
 powertop
 python-pysmbc # SMB browser support
 speech-dispatcher
+tts-biglinux
 unarchiver  # RAR format support
 xdg-desktop-portal-gtk
 zensu
 
+## Display manager
+lightdm
+lightdm-webkit2-greeter
+lightdm-webkit2-theme-community
+
 # System Utilities
 >extra fwupd
 android-tools
+big-store
 biglinux-systemd-swap
 #biglinux-updates-tweaks
 bluez-cups
@@ -149,10 +167,12 @@ compsize
 debtap-mod
 hplip
 ipp-usb
+iso2usb
 manjaro-application-utility
 manjaro-printer
 pamac-updates-menu
 pamac-flatpak-plugin
+qt5-quickcontrols2
 qt6-wayland
 rpmtoarch
 sane-airscan
@@ -248,5 +268,3 @@ rustdesk-bin
 steam
 udiskie
 # llvm16-libs
-
-brave-browser
