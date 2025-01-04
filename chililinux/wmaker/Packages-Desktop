@@ -228,7 +228,7 @@ bigbashview
 biglinux-mime
 libappindicator-gtk3
 perl-file-mimeinfo
-pipewire-biglinux-config-git
+pipewire-biglinux-config
 xdg-user-dirs
 xdg-utils
 zensu

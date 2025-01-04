@@ -110,7 +110,7 @@ lightdm
 orca
 p7zip  # 7Z format support
 perl-file-mimeinfo
-pipewire-biglinux-config-git
+pipewire-biglinux-config
 powertop
 python-pysmbc # SMB browser support
 speech-dispatcher
