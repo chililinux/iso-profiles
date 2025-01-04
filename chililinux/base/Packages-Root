@@ -90,6 +90,7 @@ curl
 dialog
 #shellcheck
 pacman-contrib
+gettext
 
 #FIRMWARE
 rtl8821ce-dkms-git
@@ -103,3 +104,4 @@ nginx-mod-http-xslt-filter
 
 #SSH SERVER
 openssh
+
