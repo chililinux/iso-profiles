@@ -274,3 +274,5 @@ chili-utils
 net-tools
 exa
 capitaine-cursors
+sshfs  # remote filesystem browse
+file-roller
