@@ -2,9 +2,9 @@ GRUB_DEFAULT=saved
 GRUB_TIMEOUT=5
 GRUB_TIMEOUT_STYLE=menu
 GRUB_DISTRIBUTOR="Chili"
-GRUB_CMDLINE_LINUX_DEFAULT=""
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash plymouth.enable=1 loglevel=4 libata.noacpi=1 acpi=force apm=power-off nowatchdog tsc=nowatchdog cryptomgr.notests no_timer_check rcupdate.rcu_expedited=1 nouveau.modeset=1 rw nosoftlockup audit=0 nomce skew_tick=1 intremap=off intel_pstate=active amd_pstate=passive cpuidle.governor=teo split_lock_detect=off clearcpuid=514 transparent_hugepage=never loglevel=3 systemd.show_status=auto rd.udev.log_level=3 apparmor=1 security=apparmor vconsole.font=Uni2-Fixed16 intel_iommu=on tdx=on"
 GRUB_CMDLINE_LINUX=""
-
+GRUB_FORCE_HIDDEN_MENU="false"
 
 # If you want to enable the save default function, uncomment the following
 # line, and set GRUB_DEFAULT to saved.
@@ -35,7 +35,8 @@ GRUB_GFXPAYLOAD_LINUX=keep
 #GRUB_DISABLE_LINUX_UUID=true
 
 # Uncomment to disable generation of recovery mode menu entries
-GRUB_DISABLE_RECOVERY=true
+GRUB_DISABLE_RECOVERY=false
+GRUB_DISABLE_SUBMENU=true
 
 # Uncomment this option to enable os-prober execution in the grub-mkconfig command
 GRUB_DISABLE_OS_PROBER=false
@@ -57,7 +58,7 @@ GRUB_THEME="/boot/grub/themes/chili/theme.txt"
 # needs 'rw' as boot parameter, to avoid delay in boot-time. 'fsck' needs to be
 # removed from 'mkinitcpio.conf' to make 'systemd-fsck' work.
 # See also Arch-Wiki: https://wiki.archlinux.org/index.php/Fsck#Boot_time_checking
-#GRUB_ROOT_FS_RO=true
+GRUB_ROOT_FS_RO=true
 
 
 
