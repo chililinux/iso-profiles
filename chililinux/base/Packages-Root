@@ -97,6 +97,7 @@ rtl8821ce-dkms-git
 rtl8821au-dkms-git
 rtl8814au-dkms-git
 broadcom-bt-firmware-git
+upd72020x-fw
 
 #HTTP SERVER
 nginx
