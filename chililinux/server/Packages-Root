@@ -95,7 +95,7 @@ chili-keyring
 
 # APPS distro
 chili-os-release-name
-comm-base-config
+chili-base-config
 
 # APPS chili
 chili-nano-config
