@@ -1,110 +1,159 @@
 # Base
 base
+base-devel
+glibc-locales
+KERNEL
 
 # Manjaro
-acpi
-acpid
-amd-ucode
-b43-fwcutter
-btrfs-progs
-cpupower
-cronie
-cryptsetup
-device-mapper
-diffutils
-dmraid
-dnsmasq
-dosfstools
-e2fsprogs
-ecryptfs-utils
-efibootmgr
-exfatprogs
-f2fs-tools
-glibc-locales
-grub
-install-grub
-inetutils
-net-tools
-intel-ucode
-jfsutils
-KERNEL
-less
-logrotate
-lvm2
-man-db
-man-pages
+#manjaro-architect-launcher
+#manjaro-zsh-config
+#cpupower
+#mhwd
+#mhwd-db
 manjaro-release
 manjaro-system
-#manjaro-zsh-config
-mdadm
-memtest86+
-memtest86+-efi
-mhwd
-mhwd-db
-mkinitcpio-openswap
-nano
-#nano-syntax-highlighting
-networkmanager
+acpi
+acpid
+b43-fwcutter
+#
+btrfs-progs
+xfsprogs
+dosfstools
+e2fsprogs
+exfatprogs    #exFAT filesystem userspace utilities for the Linux Kernel exfat driver
+f2fs-tools
+jfsutils
+reiserfsprogs
 nfs-utils
 ntfs-3g
+sysfsutils
+ecryptfs-utils
+cifs-utils
+cryptsetup
+lvm2
+device-mapper
+dmraid
+mdadm
+#
+diffutils
+#
+cronie
+efibootmgr
+grub
+install-grub
+update-grub
 os-prober
+amd-ucode
+intel-ucode
+memtest86+
+memtest86+-efi
+#
+less
+logrotate
+man-db
+man-pages
+mkinitcpio-openswap
+networkmanager
+wpa_supplicant
+wireless_tools
+inetutils
+net-tools
+usbutils
+wireless-regdb
+#
 perl
-reiserfsprogs
-rsync
 s-nail
 sof-firmware
 sudo
-sysfsutils
 texinfo
-update-grub
-usbutils
-vi
-wget
-which
-wireless-regdb
-wpa_supplicant
-xfsprogs
-###########################################
-plymouth
-plymouth-theme-chili
+
+#bash
+bash-completion
+grc-rs
+blesh-git
+
+#FIRMWARE
+#rtl8821ce-dkms-git
+#rtl8821au-dkms-git
+#rtl8814au-dkms-git
+#broadcom-bt-firmware-git
+#upd72020x-fw
+
+#SSH SERVER
+openssh
+sshfs
+tmate
+
+#HTTP SERVER
+dnsmasq
+nginx
+nginx-mod-http-xslt-filter
+
+#keyring
+biglinux-keyring
+chili-keyring
+
+# APPS distro
 chili-os-release-name
-chili-skel
+chili-base-config
+
+# APPS chili
 chili-nano-config
-#chili-bashrc
 chili-install
-chili-fetch
+chili-void-install
 chili-utils
-pyenv
-chili-grub-theme
-#chili-clonedisk
-#bigcontrolcenter-base
-harbour-bin
+chili-clonedisk
+
+# UTILS
+rsync
+nano
+vim
+biglinux-vim-config   # Leonardo
+which
 gitrepo
 tree
 duf
 shfmt
 inxi
+#
 htop
+btop
+#
 lynx
+wget
 curl
+#
 dialog
-#shellcheck
 pacman-contrib
 gettext
+#
+fastfetch
+ncdu                    #Disk usage analyzer with an ncurses interface
+yay
+pyenv
+#
+cups
+#
+sysstat                 # Leonardo
+fakeroot                # Leonardo
+pkgfile                 #command-not-found
+lsof
+pigz                    #Parallel implementation of the gzip file compressor
+umc                     #Universal Modeline Calculator (UMC) - Calculadora de Modelines para Xorg
+libxcvt                 #library providing a standalone version of the X server implementation of the VESA CVT standard timing modelines generator
+ufw                     #Uncomplicated and easy to use CLI tool for managing a netfilter firewall
+ufw-extras              #Extra configuration files for UFW
+fzf                     #Command-line fuzzy finder
 
-#FIRMWARE
-rtl8821ce-dkms-git
-rtl8821au-dkms-git
-rtl8814au-dkms-git
-broadcom-bt-firmware-git
-upd72020x-fw
+#swap
+biglinux-systemd-swap   #Script for creating hybrid swap space from zram swaps, swap files and swap partitions - biglinux fork
+biglinux-hibernate-in-swapfile-btrfs
 
-#HTTP SERVER
-nginx
-nginx-mod-http-xslt-filter
+#snapshots
+timeshift
+grub-btrfs-timeshift
+grub-btrfs
 
-#SSH SERVER
-openssh
-chili-livecd-key
-chili-keyring
-tmate
+# instalado via chili-install
+docker
+#comm-docker-config      # Leonardo

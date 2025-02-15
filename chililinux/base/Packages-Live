@@ -17,3 +17,10 @@ xf86-input-libinput
 xf86-input-vmmouse
 xf86-input-void
 grub-theme-live-manjaro
+
+#APPS distro
+chili-livecd-key
+chili-grub-theme
+plymouth-theme-chili
+plymouth
+
