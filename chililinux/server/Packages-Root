@@ -93,10 +93,7 @@ nginx-mod-http-xslt-filter
 biglinux-keyring
 chili-keyring
 
-# APPS community
-#plymouth
-#plymouth-theme-community
-#grub-theme-community
+# APPS distro
 chili-os-release-name
 comm-base-config
 
