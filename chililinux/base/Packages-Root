@@ -148,7 +148,6 @@ biglinux-systemd-swap   #Script for creating hybrid swap space from zram swaps, 
 
 # instalado via chili-install
 docker
-#comm-docker-config     # Leonardo
 
 #FIRMWARE
 #rtl8821ce-dkms-git
