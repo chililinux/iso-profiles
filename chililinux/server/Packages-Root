@@ -100,7 +100,6 @@ chili-base-config
 # APPS chili
 chili-nano-config
 chili-install
-chili-void-install
 chili-utils
 chili-clonedisk
 
