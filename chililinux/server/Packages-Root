@@ -54,6 +54,7 @@ man-db
 man-pages
 mkinitcpio-openswap
 networkmanager
+dhcpcd
 wpa_supplicant
 wireless_tools
 inetutils
@@ -149,9 +150,9 @@ biglinux-systemd-swap   #Script for creating hybrid swap space from zram swaps, 
 biglinux-hibernate-in-swapfile-btrfs
 
 #snapshots
-timeshift
-grub-btrfs-timeshift
-grub-btrfs
+#timeshift
+#grub-btrfs-timeshift
+#grub-btrfs
 
 # instalado via chili-install
 docker
