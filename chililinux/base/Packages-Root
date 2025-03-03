@@ -164,3 +164,4 @@ webkit2gtk
 umc                     # Universal Modeline Calculator (UMC) - Calculadora de Modelines para Xorg
 libxcvt                 # library providing a standalone version of the X server implementation of the VESA CVT standard timing modelines generator
 noto-fonts-emoji        # para uso no .bashrc mostra emoji
+hdparm
