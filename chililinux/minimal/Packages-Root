@@ -4,8 +4,8 @@ KERNEL          # Pacote do kernel do Linux necessário para o funcionamento do 
 #glibc-locales  # Conjunto de localizações para diferentes idiomas e regiões
 
 # Manjaro
-manjaro-release  # Contém arquivos de identificação e versão do Manjaro
-manjaro-system   # Scripts de manutenção e ajustes automáticos do Manjaro
+#manjaro-release  # Contém arquivos de identificação e versão do Manjaro
+#manjaro-system   # Scripts de manutenção e ajustes automáticos do Manjaro
 
 # Sistemas de arquivos
 btrfs-progs      # Ferramentas para gerenciar sistemas de arquivos Btrfs
