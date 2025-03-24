@@ -62,9 +62,10 @@ bigcommunity-name    # Identificação da comunidade BigLinux
 comm-minimal-config  # Configuração minimal da comunidade
 
 # Aplicativos do Chili
-#chili-nano-config  # Configuração personalizada para o editor de texto nano
-#chili-utils        # Conjunto de utilitários do Chili
-#chili-clonedisk    # Ferramenta para clonagem de discos
+chili-install
+chili-nano-config  # Configuração personalizada para o editor de texto nano
+chili-utils        # Conjunto de utilitários do Chili
+chili-clonedisk    # Ferramenta para clonagem de discos
 
 # Utilitários essenciais
 rsync       # Sincronização e cópia eficiente de arquivos via rede ou localmente
