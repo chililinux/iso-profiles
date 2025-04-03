@@ -109,7 +109,16 @@ wget
 curl
 #
 dialog
+pv
 libnewt
+ncurses
+sed
+grep
+gawk
+coreutils
+util-linux
+parted
+which
 pacman-contrib
 gettext
 #
@@ -166,5 +175,3 @@ umc                     # Universal Modeline Calculator (UMC) - Calculadora de M
 libxcvt                 # library providing a standalone version of the X server implementation of the VESA CVT standard timing modelines generator
 noto-fonts-emoji        # para uso no .bashrc mostra emoji
 hdparm
-parted
-pv
