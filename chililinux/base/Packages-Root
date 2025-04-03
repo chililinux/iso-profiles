@@ -20,10 +20,11 @@ btrfs-progs
 xfsprogs
 dosfstools
 e2fsprogs
-exfatprogs    #exFAT filesystem userspace utilities for the Linux Kernel exfat driver
+exfatprogs        # exFAT filesystem userspace utilities for the Linux Kernel exfat driver
 f2fs-tools
 jfsutils
 reiserfsprogs
+reiser4progs      # qui 03 abr 2025 07:12:15 -04 # Reiser4 filesystem programs
 nfs-utils
 ntfs-3g
 sysfsutils
