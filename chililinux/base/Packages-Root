@@ -51,6 +51,7 @@ memtest86+-efi
 less
 logrotate
 mkinitcpio-openswap
+faster-mkinitcpio
 networkmanager
 wpa_supplicant
 wireless_tools
