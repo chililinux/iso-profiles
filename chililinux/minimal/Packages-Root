@@ -1,0 +1,82 @@
+# Base
+base            # Conjunto essencial de pacotes para um sistema Linux mínimo
+KERNEL          # Pacote do kernel do Linux necessário para o funcionamento do sistema
+#glibc-locales  # Conjunto de localizações para diferentes idiomas e regiões
+
+# Manjaro
+#manjaro-release  # Contém arquivos de identificação e versão do Manjaro
+#manjaro-system   # Scripts de manutenção e ajustes automáticos do Manjaro
+
+# Sistemas de arquivos
+btrfs-progs      # Ferramentas para gerenciar sistemas de arquivos Btrfs
+xfsprogs         # Ferramentas para gerenciar sistemas de arquivos XFS
+e2fsprogs        # Ferramentas para gerenciar sistemas de arquivos ext2, ext3 e ext4
+exfatprogs       # Utilitários para gerenciar sistemas de arquivos exFAT
+dosfstools       # Ferramentas para criar e verificar sistemas de arquivos FAT
+#reiserfsprogs    # Ferramentas para gerenciar sistemas de arquivos ReiserFS
+f2fs-tools       # Ferramentas para gerenciar sistemas de arquivos F2FS (Flash-Friendly FS)
+jfsutils         # Ferramentas para gerenciar sistemas de arquivos JFS
+#sysfsutils       # Ferramentas para interagir com o sistema de arquivos /sys
+#nfs-utils        # Ferramentas para compartilhar arquivos via NFS (Network File System)
+#ntfs-3g          # Suporte para leitura e escrita em sistemas de arquivos NTFS
+#ecryptfs-utils   # Ferramentas para encriptação de diretórios com eCryptfs
+#cryptsetup       # Ferramentas para gerenciar partições criptografadas com LUKS
+#lvm2             # Gerenciador de volumes lógicos (LVM)
+#device-mapper    # Ferramenta para criar dispositivos mapeados, usado pelo LVM
+#dmraid           # Suporte para RAID via firmware (Fake RAID)
+mdadm            # Gerenciador de RAID por software
+
+# Bootloader e inicialização
+#diffutils        # Utilitários para comparar arquivos e diretórios (diff, cmp, etc.)
+grub             # Bootloader GRUB para inicializar o sistema operacional
+install-grub     # Ferramenta para instalar o GRUB
+#update-grub      # Script para atualizar a configuração do GRUB
+#os-prober        # Detecta outros sistemas operacionais para adicionar ao GRUB
+amd-ucode        # Microcódigo para processadores AMD, melhora estabilidade e segurança
+intel-ucode      # Microcódigo para processadores Intel, melhora estabilidade e segurança
+grub-theme-community
+
+# Ferramentas do sistema
+#less            # Visualizador de arquivos de texto no terminal (permite rolagem)
+#logrotate       # Garante rotação e limpeza automática de logs do sistema
+#mkinitcpio-openswap  # Suporte a criptografia para swap em sistemas com hibernação
+#networkmanager   # Gerenciador de conexões de rede, essencial para redes Wi-Fi e cabeadas
+dhcpcd
+#wireless_tools  # Ferramentas antigas para configuração de redes sem fio (substituído pelo `iw`)
+sudo             # Permite que usuários executem comandos administrativos
+bash-completion  # Programmable completion for the bash shell
+
+#SSH SERVER
+openssh          # SSH protocol implementation for remote login, command execution and file transfer
+
+# Apps Biglinux
+biglinux-nano-config
+
+# Keyrings (chaves de repositório)
+community-keyring  # Chaves de assinatura para pacotes da Community
+biglinux-keyring   # Chaves de assinatura para pacotes do BigLinux
+chili-keyring      # Chaves de assinatura para pacotes do Chili
+
+# Aplicativos da comunidade
+bigcommunity-name    # Identificação da comunidade BigLinux
+comm-minimal-config  # Configuração minimal da comunidade
+
+# Aplicativos do Chili
+chili-install
+chili-nano-config  # Configuração personalizada para o editor de texto nano
+chili-utils        # Conjunto de utilitários do Chili
+chili-clonedisk    # Ferramenta para clonagem de discos
+
+# Utilitários essenciais
+rsync       # Sincronização e cópia eficiente de arquivos via rede ou localmente
+nano        # Editor de texto simples e fácil de usar no terminal
+#vim        # Editor de texto avançado no terminal
+wget        # Ferramenta para baixar arquivos via HTTP, HTTPS e FTP
+curl        # Cliente para transferências de dados via diferentes protocolos
+dialog      # Ferramenta para criar interfaces baseadas em texto no terminal
+htop        # Interactive process viewer
+duf         # Disk Usage/Free Utility
+shfmt       # Format shell programs
+grc-rs      # Generic Colouriser (grc) ported to Rust
+mkinitcpio           # Modular initramfs image creation utility
+faster-mkinitcpio    # Change to mkinitcpio run faster

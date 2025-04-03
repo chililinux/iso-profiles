@@ -8,8 +8,8 @@ KERNEL
 #manjaro-zsh-config
 #cpupower
 linux-firmware
-mhwd
-mhwd-db
+#mhwd
+#mhwd-db
 manjaro-release
 manjaro-system
 acpi
@@ -139,7 +139,7 @@ ncdu                   #Disk usage analyzer with an ncurses interface
 #nginx-mod-http-xslt-filter
 
 #swap
-biglinux-systemd-swap   #Script for creating hybrid swap space from zram swaps, swap files and swap partitions - biglinux fork
+biglinux-systemd-swap
 #biglinux-hibernate-in-swapfile-btrfs
 
 #snapshots
@@ -148,7 +148,7 @@ biglinux-systemd-swap   #Script for creating hybrid swap space from zram swaps, 
 #grub-btrfs
 
 # instalado via chili-install
-docker
+#docker
 
 #FIRMWARE
 #rtl8821ce-dkms-git
@@ -158,7 +158,7 @@ docker
 #upd72020x-fw
 
 # Necessário para instalar o meta pacote comm-hyprland
-webkit2gtk             
+#webkit2gtk             
 
 #necessário para chili-xrandr
 umc                     # Universal Modeline Calculator (UMC) - Calculadora de Modelines para Xorg
