@@ -48,10 +48,16 @@ intel-ucode
 memtest86+
 memtest86+-efi
 #
+noto-fonts-emoji    # para uso no .bashrc mostra emoji
+hdparm              # A shell utility for manipulating Linux IDE drive/driver parameters
+mkinitcpio-openswap # Mkinitcpio openswap hook
+mkinitcpio          # Modular initramfs image creation utility
+faster-mkinitcpio   # Change to mkinitcpio run faster
+usb_modeswitch      # Activating switchable USB devices on Linux
+paru                # Feature packed AUR helper
+compsize            # Calculate compression ratio of a set of files on Btrfs
 less
 logrotate
-mkinitcpio-openswap
-faster-mkinitcpio
 networkmanager
 wpa_supplicant
 wireless_tools
