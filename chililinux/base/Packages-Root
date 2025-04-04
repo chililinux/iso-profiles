@@ -101,7 +101,7 @@ gitrepo
 rsync
 nano
 vim
-biglinux-vim-config   # Leonardo
+chili-vim-config   # Leonardo
 which
 tree
 duf

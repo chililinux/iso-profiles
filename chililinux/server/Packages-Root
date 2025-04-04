@@ -104,12 +104,12 @@ chili-nano-config
 chili-install
 chili-utils
 chili-clonedisk
+chili-vim-config   # Leonardo
 
 # UTILS
 rsync
 nano
 vim
-biglinux-vim-config   # Leonardo
 which
 gitrepo
 tree
