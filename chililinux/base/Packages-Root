@@ -1,13 +1,12 @@
-# Base
 base
 glibc-locales
 KERNEL
+linux-firmware
 
 # Manjaro
 #manjaro-architect-launcher
 #manjaro-zsh-config
 #cpupower
-linux-firmware
 #mhwd
 #mhwd-db
 manjaro-release
@@ -89,12 +88,9 @@ dnsmasq
 #keyring
 biglinux-keyring
 chili-keyring
-
-# APPS
 chili-os-release-name
 chili-base-config
-
-# APPS chili
+chili-pacman-cleancache
 chili-nano-config
 chili-install
 chili-utils

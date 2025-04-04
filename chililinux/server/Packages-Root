@@ -97,6 +97,7 @@ chili-keyring
 # APPS distro
 chili-os-release-name
 chili-base-config
+chili-pacman-cleancache
 
 # APPS chili
 chili-nano-config

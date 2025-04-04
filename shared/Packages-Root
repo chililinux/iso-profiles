@@ -70,7 +70,6 @@ ntfs-3g
 ocl-icd
 os-prober
 pacman
-pacman-cleancache
 pacman-contrib
 pacutils
 pciutils
@@ -136,6 +135,7 @@ update-grub
 ## Tweaks
 chili-skel
 chili-os-release-name
+chili-pacman-cleancache
 biglinux-l18n
 # faster-mkinitcpio
 biglinux-improve-compatibility

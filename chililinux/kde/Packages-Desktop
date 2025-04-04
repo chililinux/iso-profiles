@@ -136,7 +136,6 @@ pamac-cli
 pamac-flatpak-plugin
 pamac-tray-icon-plasma
 pamac-updates-menu
-pacman-cleancache
 packagekit-qt6
 rpmtoarch
 rpm-sequoia
@@ -315,3 +314,6 @@ tesseract-data-eng
 tesseract-data-por
 wl-clipboard
 wl-mirror
+chili-base-config
+chili-os-release-name
+chili-pacman-cleancache
