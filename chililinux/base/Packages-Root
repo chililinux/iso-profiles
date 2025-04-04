@@ -87,6 +87,9 @@ dnsmasq
 
 #keyring
 biglinux-keyring
+#swap
+biglinux-systemd-swap
+#biglinux-hibernate-in-swapfile-btrfs
 chili-keyring
 chili-os-release-name
 chili-base-config
@@ -151,10 +154,6 @@ ncdu                   #Disk usage analyzer with an ncurses interface
 #cups
 #nginx
 #nginx-mod-http-xslt-filter
-
-#swap
-biglinux-systemd-swap
-#biglinux-hibernate-in-swapfile-btrfs
 
 #snapshots
 #timeshift

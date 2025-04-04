@@ -103,8 +103,7 @@ class ConfigController:
 
         # Copy skel to root
         self.copy_folder('etc/skel', 'root')
-        
-        # Copy biglinux configuration
+
         #self.copy_file('var/lib/sddm/state.conf')
         self.copy_file('etc/default-theme-biglinux')
         self.copy_file('etc/default-performance-biglinux')
